@@ -1,6 +1,5 @@
 ---
 title: potato soup
-New field 3: potato soup | midwest coast
 layout: home
 ---
 
