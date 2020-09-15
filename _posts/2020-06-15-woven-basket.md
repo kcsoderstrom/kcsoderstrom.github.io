@@ -1,5 +1,6 @@
 ---
 title: woven basket
+layout: home
 ---
 
 You remember that basketweaving I was 80% done with? Finished it. 🙂
