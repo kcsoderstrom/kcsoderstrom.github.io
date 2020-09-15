@@ -1,5 +1,6 @@
 ---
 title: embroidered pillow
+layout: home
 ---
 
 Finally got around to stuffing a pillow that has been sitting around for ages!
